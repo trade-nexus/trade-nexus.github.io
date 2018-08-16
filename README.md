@@ -1,3 +1,5 @@
+![](https://avatars.githubusercontent.com/u/18479071?s=150)
+
 Aurora Solutions projects in the computational finance space, mostly related to TradeSharp which is a broker and data-feed neutral algorithmic trading platform
 
 ## Projects
